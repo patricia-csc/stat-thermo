@@ -4,15 +4,11 @@
 
 ### 1. Download the files from github
     
-    Click on main.py file here on github.
+    Click on the green "Code" button on this page.
     
-    Click on Raw.
+    Select "Download .zip"
     
-    Right-click -> Save as -> Click Save.
-
-    Do the same for other .txt files.
-
-    Save them in either Downloads or Desktop. Make sure they are all in the same directory
+    Unarchive the downloaded .zip
 
 ### 2. Make sure you have python3
   In Powershell (Windows) or Bash (Linux) type: python --version
