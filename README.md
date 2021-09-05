@@ -6,7 +6,7 @@
     
     Click on the green "Code" button on this page.
     
-    Select "Download .zip"
+    Select "Download ZIP" and save the file on your machine.
     
     Unarchive the downloaded .zip
 
